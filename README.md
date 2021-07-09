@@ -26,7 +26,7 @@
 
 ## Setup/Installation Requirements
 
-1. Clone this repo: `git clone https://github.com/mireie/practice-buddy.git` or `https://github.com/dqveha/practice-buddy.git`.
+1. Clone this repo: `git clone https://github.com/mireie/practice-buddy.git` or `git clone https://github.com/dqveha/practice-buddy.git`.
 2. Open `practice-buddy` directory using Visual Studio Code.
 3. Install dependencies with `npm install` within Visual Studio Code.
 4. To run it locally, use the npm dev command `npm run start`.
